@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fem-ocean
-- 👀 I’m a full stack developer.
+- 👀 I’m an AI full stack developer.
 - 💞️ I’m looking to collaborate on building scalable projects that creates value.
 - 📫 How to reach me| email: abiolaoshin@gmail.com
 
